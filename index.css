@@ -1,0 +1,17 @@
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+body {
+    background-image:url("./images/AAAABVsHQNU8AQWudbHPUa-lFujAvnrpezTBPGCZ11EHrX32hPR18lNPL9gsv1dW3f6zrJILYhoL3aAccEi9507Amd-DjxERo5mO_M2R.png" ) ;
+    background-size: cover;
+    }
+    .center {
+        margin: auto;
+        width: 80%;
+        border: 3px solid ;
+        padding: 10px;
+
+    }
